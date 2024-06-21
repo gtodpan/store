@@ -1,0 +1,28 @@
+node -v
+npm -v
+git -v
+ng v
+
+-----------------------------
+
+npm install -g @angular/cli
+
+ng new my-first-project
+cd my-first-project
+ng serve
+
+-----------------------------
+
+npm init -y
+npm install express
+npm install mongoose
+
+-----------------------------
+
+https://www.mongodb.com/try/download/community
+download
+install
+choose complete
+check install compass
+
+-----------------------------
